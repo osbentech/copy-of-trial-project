@@ -1,0 +1,25 @@
+:root{
+    --primary-colour:blue;
+    --secondary-coluor:#44686e;
+}
+
+img {
+    width: 100 display: block height: 70px;
+    margin: 0 auto
+}
+
+h1 {
+ font-size: large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: blue;
+}
+.container{
+    max-width: 1200px;
+    padding: 0 1.5rem;
+    margin: auto;
+    overflow: hidden;
+}
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+line-height: 1.54;
+text-align: center;
+}
